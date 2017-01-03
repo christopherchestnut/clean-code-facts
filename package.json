@@ -1,6 +1,6 @@
 {
   "name": "clean-code-facts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Interesting clean code quotes to inspire developers",
   "license": "MIT",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "files": [
     "index.js",
-	"clean-code-facts.json"
+    "clean-code-facts.json"
   ],
   "dependencies": {
     "unique-random-array": "^1.0.0"
