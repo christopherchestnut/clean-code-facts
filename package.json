@@ -1,6 +1,6 @@
 {
   "name": "clean-code-facts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Interesting clean code quotes to inspire developers",
   "license": "MIT",
   "main": "index.js",
